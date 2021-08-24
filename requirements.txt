@@ -1,0 +1,4 @@
+aiogram >= 2.14.3
+steam >= 1.2.0
+motor >= 2.5.1
+google-api-python-client >= 2.6.0
