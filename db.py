@@ -1,6 +1,3 @@
-# Developer: @aryn_bots
-
-
 from pymongo import MongoClient, errors
 from pymongo.cursor import Cursor
 from bson import ObjectId

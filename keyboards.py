@@ -1,6 +1,3 @@
-# Developer: @aryn_bots
-
-
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pymongo.cursor import Cursor
 from typing import Optional
