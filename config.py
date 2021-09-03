@@ -1,4 +1,4 @@
-bot_token = '1813802062:AAEhkhBYH6yD-uHW486OqtwBHrJmiMqRkE4'
+bot_token = ''
 
 db_url = 'mongodb://localhost:27017'
 db_name = 'GuardGiverBot'
